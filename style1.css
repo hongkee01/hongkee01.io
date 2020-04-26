@@ -71,14 +71,14 @@ a {
 #subpage2{
   text-align: center;
   margin-top: 50px;
-  height: 750px;
+  height: 960px;
   padding-top: 30px;
   background-color:	#FFDAB9;
 }
 
 #subpage2 .selected {
-  width: 350px;
-  height: 180px;
+  width: 200px;
+  height: 150px;
 }
 
 
