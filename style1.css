@@ -77,13 +77,13 @@ a {
 }
 
 #subpage2 .selected {
-  width: 200px;
+  width: 100px;
   height: 150px;
 }
 
 
 #footer{
-  width: auto;
+  width: 1418;
   text-align: center;
   background-color: black;
   color: white;
