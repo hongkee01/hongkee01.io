@@ -76,6 +76,11 @@ a {
   background-color:	#FFDAB9;
 }
 
+#subpage2 .selected {
+  width: 500px;
+  height: 250px;
+}
+
 
 #footer{
   width: auto;
