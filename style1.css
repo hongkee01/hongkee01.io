@@ -32,7 +32,8 @@ h1 {
   width: auto;
   padding: 0px;
   position: sticky;
-  top: 0;
+  position: -webkit-sticky;
+  top: 0px;
   
 }
 
