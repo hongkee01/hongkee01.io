@@ -15,7 +15,7 @@ h1 {
   width: auto;
   height: 2500px;
   margin: 0px;
-  position: ;
+  position: relative;
   min-height: 100vh;
 
 
@@ -83,15 +83,13 @@ a {
 
 
 #footer{
-  width: 350px;
+  width: auto;
   background-color: black;
   color: white;
   font-size: 10px;
   position: absolute;
   bottom: 0;
   height: 5rem;
-  margin-bottom: -20px;
-
 }
 
 
