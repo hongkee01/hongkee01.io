@@ -95,11 +95,9 @@ a {
   background-color: black;
   color: white;
   font-size: 15px;
-  position: sticky;
-  position: -webkit-sticky;
+  position: absolute;
   bottom: 0;
-  height: 12rem;
-  margin-bottom: -15px;
+  height: 8rem;
 }
 
 
