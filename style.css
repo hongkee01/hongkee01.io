@@ -91,13 +91,13 @@ a {
 
 
 #footer{
-  width: 1000px;
+  width: auto;
   background-color: black;
   color: white;
   font-size: 10px;
-  position: absolute;
+  position: fixed;
   bottom: 0;
-  height: 3rem;
+  height: 7rem;
 }
 
 
