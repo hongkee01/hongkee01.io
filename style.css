@@ -95,7 +95,8 @@ a {
   background-color: black;
   color: white;
   font-size: 15px;
-  position: absolute;
+  position: sticky;
+  position: -webkit-sticky;
   bottom: 0;
   height: 12rem;
   margin-bottom: -15px;
