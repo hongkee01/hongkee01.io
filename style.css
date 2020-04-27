@@ -98,6 +98,7 @@ a {
   position: fixed;
   bottom: 0;
   height: 7rem;
+  margin-bottom: -15px;
 }
 
 
