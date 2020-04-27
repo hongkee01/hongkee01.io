@@ -15,7 +15,8 @@ h1 {
   width: auto;
   height: 2500px;
   margin: 0px;
-  position: ;
+  position: relative;
+  top: 0px;
   min-height: 100vh;
 
 
