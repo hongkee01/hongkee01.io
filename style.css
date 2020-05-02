@@ -92,24 +92,34 @@ height: 150px;
 
 
 #footer{
-width: 1000px;
+width: 100%;
 background-color: black;
 color: white;
 font-size: 15px;
 position: absolute;
-bottom: 0;
-height: 8rem;
+bottom: -20px;
+height: 10rem;
 }
 
+#copyright{
+  text-align: right;
+  margin-top: 40px;
+  margin-right: 5px;
+}
 
+#table {
+  text-align: center;
+  margin-top: 25px;
+  width: 100%;
+}
+
+table {
+  width: 100%;
+}
 
 
 body {
 font-family: Lucida;
 background-color: #FAF0E6;
 
-}
-
-#footer .selected {
-text-align: right;
 }
